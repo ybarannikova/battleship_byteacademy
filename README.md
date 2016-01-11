@@ -1,6 +1,6 @@
 # battleship_byteacademy
 
-Terminal battleship game
+##Terminal battleship game
 
 MVC design
 
