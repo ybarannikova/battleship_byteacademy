@@ -1,7 +1,7 @@
-# battleship_byteacademy
-
-##Terminal battleship game
+#Terminal Battleship game
 
 MVC design
 
-Run python controller.py
+```
+$ python controller.py
+```
